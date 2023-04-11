@@ -6,7 +6,7 @@
 class XYaxis
 {
 public:
-	
+
 	XYaxis()
 	{
 		x = 0.0;
@@ -74,11 +74,12 @@ public:
 
 
 private:
-	
+
 	float x;
 	float y;
 	float z;
 	int cluster;
+	int git;
 };
 
 
