@@ -79,6 +79,7 @@ private:
 	float y;
 	float z;
 	int cluster;
+	int git2;
 
 };
 
